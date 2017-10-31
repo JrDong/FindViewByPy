@@ -1,0 +1,17 @@
+LinearLayout flOnlineLibraryRoot = (LinearLayout) findViewById(R.id.fl_online_library_root);
+RelativeLayout flLeft = (RelativeLayout) findViewById(R.id.fl_left);
+SimpleDraweeView rivLeft = (SimpleDraweeView) findViewById(R.id.riv_left);
+TextView tvLeft = (TextView) findViewById(R.id.tv_left);
+RecyclingImageView hotLeft = (RecyclingImageView) findViewById(R.id.hot_left);
+RelativeLayout flMidLeft = (RelativeLayout) findViewById(R.id.fl_mid_left);
+SimpleDraweeView rivMidLeft = (SimpleDraweeView) findViewById(R.id.riv_mid_left);
+TextView tvMidLeft = (TextView) findViewById(R.id.tv_mid_left);
+RecyclingImageView hotMidLeft = (RecyclingImageView) findViewById(R.id.hot_mid_left);
+RelativeLayout flMidRight = (RelativeLayout) findViewById(R.id.fl_mid_right);
+SimpleDraweeView rivMidRight = (SimpleDraweeView) findViewById(R.id.riv_mid_right);
+TextView tvMidRight = (TextView) findViewById(R.id.tv_mid_right);
+RecyclingImageView hotMidRight = (RecyclingImageView) findViewById(R.id.hot_mid_right);
+RelativeLayout flRight = (RelativeLayout) findViewById(R.id.fl_right);
+SimpleDraweeView rivRight = (SimpleDraweeView) findViewById(R.id.riv_right);
+TextView tvRight = (TextView) findViewById(R.id.tv_right);
+RecyclingImageView hotRight = (RecyclingImageView) findViewById(R.id.hot_right);
